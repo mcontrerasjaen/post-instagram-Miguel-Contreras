@@ -1,0 +1,63 @@
+.container header {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.wrapper {
+    display: flex;
+    margin-top: 10px;
+    height: 2100px;   
+    background: grey; 
+   
+}
+
+.container1 {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    gap: 20px;
+    width: 50%;
+    height: 2000px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 30px;
+    
+}
+
+.box {
+     width: 400px;
+    height: 600px;
+    display: flex;
+    flex-flow: column wrap;
+    background: white;
+}   
+
+p1 {
+    display: flex;
+    color: grey; 
+} 
+
+p2 {
+    display: flex;
+    color: grey; 
+} 
+
+p3 {
+    display: flex;
+    color: grey; 
+} 
+
+p4 {
+    display: flex;
+    color: grey; 
+} 
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;    
+}
+
